@@ -1,0 +1,14 @@
+table th{text-align: left;
+         background-color: #7baff3;
+         font-family: 'Open Sans', sans-serif;
+}
+
+table td{border: 1px solid #a3c3ee;
+         padding: 4px 8px; 
+         font-family: 'Open Sans', sans-serif;
+}
+
+h2{font-family: 'Open Sans', sans-serif;
+    font-size: 18pt;
+    color: #7baff3;
+}
